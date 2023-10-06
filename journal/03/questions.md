@@ -17,7 +17,7 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > | A class is like a template like year make and model and an instance of that class would be what each of those things are for each object.|
 
 06. What is a computed Property?
   
