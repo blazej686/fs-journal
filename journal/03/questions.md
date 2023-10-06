@@ -37,4 +37,4 @@
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | store the template for data as well as the get that uses said data. |
+  > | store the template for data as well as the get that uses said data. | 
