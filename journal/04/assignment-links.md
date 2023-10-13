@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/blazej686/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/blazej686/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/blazej686/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/blazej686/<ASSIGNMENT_REPO>)**
+* **[Triva](https://github.com/blazej686/Triva)**
+* **[Repo](https://github.com/blazej686/fall23_gregslist_async)**
+* **[Repo](https://github.com/blazej686/Pokedex)**
+* **[Repo](https://github.com/blazej686/Gifted)**
