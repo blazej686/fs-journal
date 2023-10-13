@@ -3,7 +3,7 @@
 
   > | async allows you to run code while other code runs ans sync doesn't allow that. |
 
-02. What is an event listener?
+02. What is an event listener? 
 
   > | It is something that listens for when "you yell something really loud" as Jeremy puts it.|
 
