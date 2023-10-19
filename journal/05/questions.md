@@ -9,32 +9,35 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | ANSWER HERE |
+  > | Object Relational Mapper and we use Mongoose  |
 
 04. Which two `HTTP` request types include a body?
 
-  > | ANSWER HERE |
+  > | Create (Post) and Update(Put) |
 
 05. In a/an _______ coding model, when you call a function, it returns only when the action has finished and stops your program for the time the action takes. Likewise in a/an _______ coding model, multiple things are allowed to happen at one time. When you perform an action, your program continues to run.  Fill in the blanks.
 
-  > | ANSWER HERE |
+  > | async and synchronous   |
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > | ANSWER HERE |
+  > | 
+  1 to 1 is a direct link like one person lives in a house and only one house. 
+  One to many and it is like books in a library where a library has a lot of books in it.
+  many to many they tie to different data points like many to one but more than one.  |
 
 07. What is middleware?
 
-  > | ANSWER HERE |
+  > | a software that does things like allows the user to login and it stores passwords and login stuff so we don't have to. It can also do other things. |
 
 08. The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 
-  > | ANSWER HERE |
+  > | response and request |
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  > | ANSWER HERE |
+  > | ?tag=winter |
 
 10. What is a ***virtual property***?
 
-  > | ANSWER HERE |
+  > | a property that doesn't exist in the data base but is there logically  |
