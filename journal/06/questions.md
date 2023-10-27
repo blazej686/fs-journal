@@ -17,7 +17,7 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > |OnMount is one that runs on mount or page load. |
+  > |Mount is one that runs on mount or page load. destroy update and create |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
