@@ -2,7 +2,7 @@
 
 1. Describe the two ways to bind Data in Vue?
 
-  > | using the v-model and  |
+  > | using the v-model and the : |
 
 2. The `SPA` acronym stands for what?
 
