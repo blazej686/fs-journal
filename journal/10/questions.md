@@ -25,7 +25,7 @@
   }
   ```
 
-  > | ANSWER HERE |
+  > | Public |
 
 06. In the Car example what is `string` an indication of?
 
@@ -37,7 +37,7 @@
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
-  > | ANSWER HERE |
+  > | Columns house the data "title" such as name id. Rows house the data of each item that is in the table such as the id number and name of object. |
 
 09. Demonstrate the necessary SQL for creating a table called `characters` with the values `name, age, description` as strings, and an `int` id.
 
