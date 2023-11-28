@@ -1,7 +1,7 @@
 # CSharp and SQL Fundamentals
 01. What is the purpose of a `namespace`?
 
-  > | ANSWER HERE |
+  > | It is kind of like the export class in JS that allows it to be accessed in other files of the app.|
 
 02. What is the difference between a `class` and an `interface`?
 
