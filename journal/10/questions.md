@@ -52,7 +52,7 @@
 10. In SQL how can you query more than a single table? Provide an example.
 
   > | SELECT
-rec.*,
+char.*,
 acc.*
 FROM characters char
 JOIN accounts acc ON char.creatorId = acc.id
