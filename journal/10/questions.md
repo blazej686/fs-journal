@@ -5,7 +5,7 @@
 
 02. What is the difference between a `class` and an `interface`?
 
-  > | ANSWER HERE |
+  > | A class isn't abstracted and an interface is completely abstracted  |
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
@@ -29,11 +29,11 @@
 
 06. In the Car example what is `string` an indication of?
 
-  > | ANSWER HERE |
+  > | A return time |
 
 07. In the Car example what is `abstract` preventing?
 
-  > | ANSWER HERE |
+  > | It is preventing the car from being instantiated  |
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
