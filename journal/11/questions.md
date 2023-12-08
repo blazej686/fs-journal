@@ -1,15 +1,15 @@
 # A bit more CSharp and SQL
 1. What does ***inheritance*** accomplish for us in C#?
 
-  > | ANSWER HERE |
+  > | It allows you to pass down elements to another file in your workspace |
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
-  > | ANSWER HERE |
+  > | yes a class gets all members of that class that is passed to it via extending it. |
 
 3. How does ***accessibility*** affect inheritance?
 
-  > | ANSWER HERE |
+  > | Private members are not visible from the child class and public ones are visible and can be accessed as well. |
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
