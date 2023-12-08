@@ -13,11 +13,11 @@
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
-  > | ANSWER HERE |
+  > | Primary key is a sql table item that is assigned to the item and the foreign is what it looks for when doing a "virtual"  |
 
 5. What is an ***alias***?
 
-  > | ANSWER HERE |
+  > | It is a way to rename things in SQL to a shorthand so you don'thave to type it all out each time. |
 
 6. Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
